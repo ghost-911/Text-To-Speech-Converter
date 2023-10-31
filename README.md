@@ -26,5 +26,4 @@ Text-to-Speech Converter is a user-friendly desktop application built with Pytho
 
 1. Clone this repository to your local machine:
 
-```bash
-git clone https://github.com/yourusername/text-to-speech-converter.git
+
