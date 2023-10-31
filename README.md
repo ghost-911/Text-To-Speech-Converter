@@ -3,7 +3,7 @@ Created a Text-to-Speech Converter application using Python and Tkinter. This us
 
 # Text-to-Speech Converter
 
-![Text-to-Speech Converter](https://your-image-url.png) <!-- Replace with the URL of an image for your application -->
+![Text-to-Speech Converter]((https://github.com/ghost-911/Text-To-Speech-Converter/blob/75b3f9bc3cf5a616bdb95b3d81b9057adf6fd8c4/Screenshot_20231031_194655.png)) <!-- Replace with the URL of an image for your application -->
 
 Text-to-Speech Converter is a user-friendly desktop application built with Python and Tkinter that allows you to convert text into speech. With this tool, you can customize the voice (male or female) and adjust the speaking speed according to your preferences.
 
